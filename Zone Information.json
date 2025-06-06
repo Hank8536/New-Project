@@ -1,1 +1,31 @@
-Empty!
+[{
+    "membersOnline":3,
+    "zoneId":2,
+    "groupName":"Japan Car Lovers",
+    "timeRemaining":"5 hours and 28 minutes"
+  },{
+    "membersOnline":1,
+    "zoneId":0,
+    "groupName":"4FuN",
+    "timeRemaining":"3 hours and 14 minutes"
+  },{
+    "membersOnline":7,
+    "zoneId":1,
+    "groupName":"Nightmare Empire",
+    "timeRemaining":"0 hours and 12 minutes"
+  },{
+    "membersOnline":3,
+    "zoneId":3,
+    "groupName":"Hall of Malevolence",
+    "timeRemaining":"2 hours and 25 minutes"
+  },{
+    "membersOnline":5,
+    "zoneId":4,
+    "groupName":"Chaos Cartel",
+    "timeRemaining":"0 hours and 56 minutes"
+  },{
+    "membersOnline":5,
+    "zoneId":5,
+    "groupName":"Chaos Cartel",
+    "timeRemaining":"0 hours and 58 minutes"
+  }]
