@@ -1,6 +1,16 @@
 [{
-    "membersOnline":5,
-    "zoneId":15,
-    "groupName":"The Cat Family",
-    "timeRemaining":"0 hours and 42 minutes"
+    "membersOnline":11,
+    "zoneId":1,
+    "groupName":"Seamless Gate",
+    "timeRemaining":"0 hours and 36 minutes"
+  },{
+    "membersOnline":11,
+    "zoneId":2,
+    "groupName":"Seamless Gate",
+    "timeRemaining":"2 hours and 18 minutes"
+  },{
+    "membersOnline":7,
+    "zoneId":3,
+    "groupName":"Hall of Malevolence",
+    "timeRemaining":"0 hours and 37 minutes"
   }]
